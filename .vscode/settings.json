@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "dionmaka",
+        "projectKey": "dionmaka_zap-hud"
+    }
+}
